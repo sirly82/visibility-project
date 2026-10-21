@@ -1,0 +1,3 @@
+[submodule "visibility-dataset"]
+	path = visibility-dataset
+	url = https://github.com/sirly82/visibility-dataset.git

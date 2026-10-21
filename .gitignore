@@ -1,0 +1,12 @@
+# Virtual Environment
+vis-env
+
+# Jupyter Lab Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache & System Files
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
